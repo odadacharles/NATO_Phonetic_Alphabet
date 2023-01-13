@@ -1,0 +1,1 @@
+Program takes in a word and returns the NATO Phonetic equivalent
